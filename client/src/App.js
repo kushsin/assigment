@@ -47,6 +47,7 @@ const App = () => {
     <>
     <h1>this is the first hange in my github repo</h1>
        <p>user made second modifiction</p>
+       <h3>please give the clone status </h3>
     <ThemeProvider theme={theme}>
 
       <Router>
